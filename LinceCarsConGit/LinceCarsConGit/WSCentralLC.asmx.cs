@@ -25,7 +25,7 @@ namespace LinceCarsConGit
 
         public string holi()
         {
-            //no va a funcionar
+            //SI FUNCIONA
         }
         
     }
