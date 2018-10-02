@@ -27,10 +27,6 @@ namespace LinceCarsConGit
         {
             return "Eres el mejor";
         }
-
-        public string hola()
-        {
-            return "chao";
-        }
+        
     }
 }
