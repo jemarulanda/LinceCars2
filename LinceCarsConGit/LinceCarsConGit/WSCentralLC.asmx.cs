@@ -20,7 +20,7 @@ namespace LinceCarsConGit
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hola a todos y todasssssssss";
+            return "Brahyan marico";
         }
     }
 }
