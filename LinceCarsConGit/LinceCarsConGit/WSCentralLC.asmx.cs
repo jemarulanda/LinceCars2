@@ -22,5 +22,10 @@ namespace LinceCarsConGit
         {
             return "Brahyan maricooooooon";
         }
+
+        public string holi()
+        {
+            return "chimbo de perro";
+        }
     }
 }
