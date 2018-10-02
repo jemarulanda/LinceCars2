@@ -25,7 +25,7 @@ namespace LinceCarsConGit
 
         public string holi()
         {
-            return "chimbo de perro";
+            return "Eres el mejor";
         }
     }
 }
